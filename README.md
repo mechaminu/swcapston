@@ -37,4 +37,4 @@ Revised : Not yet
 
 ---  
 ## 3. 수행 결과  
-![](video/video.mp4)
+[![](https://img.youtube.com/vi/-TGLWl0HfCQ/maxresdefault.jpg)](https://youtu.be/-TGLWl0HfCQ)
