@@ -37,6 +37,4 @@ Revised : Not yet
 
 ---  
 ## 3. 수행 결과  
-<video width="640" height="480" controls>
-  <source src="video/video.mp4" type="video/mp4">
-</video>
+![](video/video.mp4)
